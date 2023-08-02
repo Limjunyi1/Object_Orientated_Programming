@@ -1,7 +1,5 @@
-# FIT2099 Assignment (Semester 1, 2023)
-# Elden Ring
+# Rouge Like Elden Ring
 
-## MA_Lab06Team09
 Team members: Lim Jun Yi, Liew Dong Xun, Joshua Lim Boon Hor
 
 ## Design Rationale
